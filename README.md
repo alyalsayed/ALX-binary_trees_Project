@@ -56,3 +56,4 @@ and the different types of binary trees (complete, full, perfect and balanced).
 
 ## Author
 * Musa Abraham    - [Musa](https://github.com/fessorx)
+*  Aly Alsayed    - [Aly](https://github.com/alyalsayed)
